@@ -13,6 +13,12 @@ name: atom-markdown-image-assistant
 # License of this project
 license: "MIT"
 
+# Copyrights
+copyrights:
+  - name: "Tamas Nagy"
+    url: "https://github.com/tlnagy"
+    year: "2016"
+
 # Canonical GitHub repo
 github_repo: cloudposse/atom-markdown-image-assistant
 
@@ -101,6 +107,11 @@ examples: |-
 
   -----
   ![atom-image-assistant](https://cloud.githubusercontent.com/assets/118112/24306827/2db2494a-107f-11e7-969a-2581851aa816.gif)
+
+references:
+- name: "atom-markdown-image-assistant"
+  description: "Add sane drag and drop and copy/paste support for images to markdown files"
+  url: "https://github.com/tlnagy/atom-markdown-image-assistant"
 
 # Contributors to this project
 contributors:
